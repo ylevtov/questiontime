@@ -82,13 +82,13 @@ body {
 
 .placeholders {
   margin-bottom: 30px;
-  border-right: 1px solid #eee;
 }
 .placeholders h4 {
   margin-bottom: 0;
 }
 .placeholder {
   margin-bottom: 20px;
+  border-right: 1px solid #eee;
 }
 .placeholder img {
   display: inline-block;
